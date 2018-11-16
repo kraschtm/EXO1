@@ -1,0 +1,13 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="ProjectDictionaryState">
+        <dictionary name="julienbonnet" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
+      </component>
+      <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="1" Folder0="$USER_HOME$/Downloads/hunspell-french-dictionaries-v6.3" CustomDictionaries="1" CustomDictionary0="$USER_HOME$/Downloads/hunspell-french-dictionaries-v6.3/fr-toutesvariantes.dic" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="project-level" UseSingleDictionary="true" />
+    </defaultProject>
+  </component>
+</application>
